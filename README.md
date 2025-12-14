@@ -1,6 +1,7 @@
 # Inpainting landscapes
 # A Deep Learning Attempt by 
-**-Aakaash K**
+**Aakaash K,Akash HB and Aaron S**
+
 ## Introduction
 This project is about inpainting images of landscapes. In this case, inpainting is based on the idea of masking parts of the image and then filling the missing parts with plausible content. 
 ---
